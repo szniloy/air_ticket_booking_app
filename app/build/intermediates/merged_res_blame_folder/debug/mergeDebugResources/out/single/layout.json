@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-mergeDebugResources-38:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-mergeDebugResources-38:\\layout\\viewholder_flight.xml",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\layout\\viewholder_flight.xml"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-mergeDebugResources-38:\\layout\\activity_seat_list.xml",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\layout\\activity_seat_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-mergeDebugResources-38:\\layout\\sp_item.xml",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\layout\\sp_item.xml"
+    },
+    {
+        "merged": "com.szniloycoder.airticket.app-mergeDebugResources-38:/layout/activity_seat_list.xml",
+        "source": "com.szniloycoder.airticket.app-main-41:/layout/activity_seat_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-mergeDebugResources-38:\\layout\\activity_search.xml",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-mergeDebugResources-38:\\layout\\activity_ticket_detail.xml",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\layout\\activity_ticket_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-mergeDebugResources-38:\\layout\\activity_intro.xml",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\layout\\activity_intro.xml"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-mergeDebugResources-38:\\layout\\seat_iteam.xml",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\layout\\seat_iteam.xml"
+    }
+]

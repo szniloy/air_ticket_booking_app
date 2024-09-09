@@ -1,0 +1,510 @@
+[
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-hdpi_men.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-hdpi\\men.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-xxhdpi_women.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-xxhdpi\\women.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-ldpi_line_airple_black.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-ldpi\\line_airple_black.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-hdpi_barcode.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-hdpi\\barcode.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-mdpi_intro_pic.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-mdpi\\intro_pic.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-xxxhdpi_bottom_btn2.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-xxxhdpi\\bottom_btn2.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-xhdpi_line_airple_blue.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-xhdpi\\line_airple_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable_seat_unavailable.xml.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable\\seat_unavailable.xml"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable_image.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable\\image.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-mdpi_world.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-mdpi\\world.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-ldpi_bottom_btn2.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-ldpi\\bottom_btn2.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-ldpi_line_airple_blue.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-ldpi\\line_airple_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-xxhdpi_bottom_btn3.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-xxhdpi\\bottom_btn3.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-mdpi_women.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-mdpi\\women.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\layout_activity_search.xml.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-xhdpi_world.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-xhdpi\\world.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-xhdpi_bell_icon.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-xhdpi\\bell_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-xxhdpi_barcode.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-xxhdpi\\barcode.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-mdpi_bottom_btn4.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-mdpi\\bottom_btn4.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-xxxhdpi_world.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-xxxhdpi\\world.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable_seat_available.xml.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable\\seat_available.xml"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-hdpi_bottom_btn1.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-hdpi\\bottom_btn1.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable_seat_empty.xml.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable\\seat_empty.xml"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable_blue_bg_bottom_corner.xml.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable\\blue_bg_bottom_corner.xml"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-xxhdpi_world.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-xxhdpi\\world.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable_dashed_line.xml.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable\\dashed_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-ldpi_bell_icon.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-ldpi\\bell_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-xxxhdpi_bottom_btn1.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-xxxhdpi\\bottom_btn1.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-ldpi_bottom_btn1.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-ldpi\\bottom_btn1.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable_round_notifications.xml.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable\\round_notifications.xml"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-xhdpi_bottom_btn2.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-xhdpi\\bottom_btn2.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-xxxhdpi_men.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-xxxhdpi\\men.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\layout_activity_intro.xml.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\layout\\activity_intro.xml"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-xxxhdpi_line_airple_black.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-xxxhdpi\\line_airple_black.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-xxhdpi_bottom_btn2.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-xxhdpi\\bottom_btn2.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-mdpi_men.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-mdpi\\men.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-xxxhdpi_women.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-xxxhdpi\\women.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable_from_air.xml.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable\\from_air.xml"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-xhdpi_bottom_btn4.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-xhdpi\\bottom_btn4.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable_blue_bg.xml.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable\\blue_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-xhdpi_barcode.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-xhdpi\\barcode.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-ldpi_men.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-ldpi\\men.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-xhdpi_bottom_btn1.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-xhdpi\\bottom_btn1.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-xxhdpi_men.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-xxhdpi\\men.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-hdpi_intro_pic.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-hdpi\\intro_pic.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable_qrcode.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable\\qrcode.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-xxxhdpi_bottom_btn4.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-xxxhdpi\\bottom_btn4.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-hdpi_bottom_btn3.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-hdpi\\bottom_btn3.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\layout_activity_seat_list.xml.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\layout\\activity_seat_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-xxhdpi_line_airple_blue.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-xxhdpi\\line_airple_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\layout_sp_item.xml.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\layout\\sp_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-xhdpi_men.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-xhdpi\\men.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-xhdpi_women.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-xhdpi\\women.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-mdpi_bottom_btn3.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-mdpi\\bottom_btn3.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-xxxhdpi_world_half.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-xxxhdpi\\world_half.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-ldpi_bottom_btn3.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-ldpi\\bottom_btn3.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-mdpi_barcode.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-mdpi\\barcode.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-xxxhdpi_intro_pic.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-xxxhdpi\\intro_pic.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable_calender_icon.xml.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable\\calender_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\layout_seat_iteam.xml.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\layout\\seat_iteam.xml"
+    },
+    {
+        "merged": "com.szniloycoder.airticket.app-debug-39:/drawable_light_blue_button.xml.flat",
+        "source": "com.szniloycoder.airticket.app-main-41:/drawable/light_blue_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-mdpi_bottom_btn1.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-mdpi\\bottom_btn1.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable_seat_selected.xml.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable\\seat_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable_arrow_back.xml.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable\\arrow_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\layout_activity_ticket_detail.xml.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\layout\\activity_ticket_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable_airline_seat.xml.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable\\airline_seat.xml"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-xxhdpi_intro_pic.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-xxhdpi\\intro_pic.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-xxhdpi_line_airple_black.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-xxhdpi\\line_airple_black.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-xxxhdpi_barcode.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-xxxhdpi\\barcode.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-hdpi_bell_icon.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-hdpi\\bell_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-xhdpi_line_airple_black.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-xhdpi\\line_airple_black.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-ldpi_barcode.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-ldpi\\barcode.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-mdpi_bottom_btn2.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-mdpi\\bottom_btn2.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-mdpi_line_airple_black.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-mdpi\\line_airple_black.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\menu_menu_bottom.xml.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\menu\\menu_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-hdpi_bottom_btn4.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-hdpi\\bottom_btn4.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-mdpi_world_half.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-mdpi\\world_half.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\raw_done.json.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\raw\\done.json"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-hdpi_world_half.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-hdpi\\world_half.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-xhdpi_world_half.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-xhdpi\\world_half.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-mdpi_line_airple_blue.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-mdpi\\line_airple_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-ldpi_world.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-ldpi\\world.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-xxxhdpi_line_airple_blue.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-xxxhdpi\\line_airple_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-hdpi_line_airple_black.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-hdpi\\line_airple_black.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-xxxhdpi_bell_icon.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-xxxhdpi\\bell_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-ldpi_women.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-ldpi\\women.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-xhdpi_intro_pic.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-xhdpi\\intro_pic.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable_line.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable\\line.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-ldpi_bottom_btn4.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-ldpi\\bottom_btn4.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-xxhdpi_bottom_btn1.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-xxhdpi\\bottom_btn1.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\layout_viewholder_flight.xml.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\layout\\viewholder_flight.xml"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable_stroke_bg.xml.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable\\stroke_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-hdpi_women.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-hdpi\\women.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-xxhdpi_bell_icon.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-xxhdpi\\bell_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable_light_blue_button.xml.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable\\light_blue_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-ldpi_intro_pic.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-ldpi\\intro_pic.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-xhdpi_bottom_btn3.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-xhdpi\\bottom_btn3.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-xxhdpi_bottom_btn4.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-xxhdpi\\bottom_btn4.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\raw_no_data.json.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\raw\\no_data.json"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-hdpi_world.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-hdpi\\world.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable_passenger_icon.xml.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable\\passenger_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable_circle.xml.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable\\circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-mdpi_bell_icon.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-mdpi\\bell_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-xxhdpi_world_half.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-xxhdpi\\world_half.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable_light_white_bg.xml.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable\\light_white_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-hdpi_line_airple_blue.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-hdpi\\line_airple_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-hdpi_bottom_btn2.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-hdpi\\bottom_btn2.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-xxxhdpi_bottom_btn3.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-xxxhdpi\\bottom_btn3.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable-ldpi_world_half.png.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable-ldpi\\world_half.png"
+    },
+    {
+        "merged": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-debug-39:\\drawable_light_gray_bg.xml.flat",
+        "source": "C:\\Users\\szniloy\\.gradle\\daemon\\8.7\\com.szniloycoder.airticket.app-main-41:\\drawable\\light_gray_bg.xml"
+    }
+]

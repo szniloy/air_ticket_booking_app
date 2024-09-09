@@ -1,0 +1,42 @@
+com.szniloycoder.airticket.app-play-services-base-18.1.0-0 C:\Users\szniloy\.gradle\caches\transforms-4\0f42476c0b72ca584e6f279427486cf1\transformed\play-services-base-18.1.0\res
+com.szniloycoder.airticket.app-play-services-basement-18.3.0-1 C:\Users\szniloy\.gradle\caches\transforms-4\13ca21bce0ad0eb0b7803b352f9d729c\transformed\play-services-basement-18.3.0\res
+com.szniloycoder.airticket.app-recyclerview-1.1.0-2 C:\Users\szniloy\.gradle\caches\transforms-4\1877578d78f89c5bc0bc168001381de0\transformed\recyclerview-1.1.0\res
+com.szniloycoder.airticket.app-appcompat-resources-1.7.0-3 C:\Users\szniloy\.gradle\caches\transforms-4\1d7d13511660dd74da9b1ac00c2c7499\transformed\appcompat-resources-1.7.0\res
+com.szniloycoder.airticket.app-constraintlayout-2.1.4-4 C:\Users\szniloy\.gradle\caches\transforms-4\2af2db38d2ec56b0cce733d5e3d23c47\transformed\constraintlayout-2.1.4\res
+com.szniloycoder.airticket.app-lifecycle-viewmodel-savedstate-2.6.2-5 C:\Users\szniloy\.gradle\caches\transforms-4\33725d90c0d9a33d46b9d4ca608a3f0f\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.szniloycoder.airticket.app-circleimageview-3.1.0-6 C:\Users\szniloy\.gradle\caches\transforms-4\36b8feecff5eb25809778023a38c26c9\transformed\circleimageview-3.1.0\res
+com.szniloycoder.airticket.app-core-1.13.0-7 C:\Users\szniloy\.gradle\caches\transforms-4\37fc92f6d3440160bbcad4aa6da17432\transformed\core-1.13.0\res
+com.szniloycoder.airticket.app-lifecycle-process-2.6.2-8 C:\Users\szniloy\.gradle\caches\transforms-4\3b8ec06bc83f8565eba9b901d7714c85\transformed\lifecycle-process-2.6.2\res
+com.szniloycoder.airticket.app-emoji2-1.3.0-9 C:\Users\szniloy\.gradle\caches\transforms-4\43bf2f80bbf3a402cf649b568f25c194\transformed\emoji2-1.3.0\res
+com.szniloycoder.airticket.app-lifecycle-runtime-2.6.2-10 C:\Users\szniloy\.gradle\caches\transforms-4\440f235b8ee19ca00a9a710a1d70823c\transformed\lifecycle-runtime-2.6.2\res
+com.szniloycoder.airticket.app-appcompat-1.7.0-11 C:\Users\szniloy\.gradle\caches\transforms-4\4d8af56e1e8d78bd4c24fa832e2b652c\transformed\appcompat-1.7.0\res
+com.szniloycoder.airticket.app-chip-navigation-bar-1.4.0-12 C:\Users\szniloy\.gradle\caches\transforms-4\4eab55738949b9e2a9379da47e811708\transformed\chip-navigation-bar-1.4.0\res
+com.szniloycoder.airticket.app-coordinatorlayout-1.1.0-13 C:\Users\szniloy\.gradle\caches\transforms-4\4f7f35f309fa34ff9f80627945e1ac50\transformed\coordinatorlayout-1.1.0\res
+com.szniloycoder.airticket.app-material-1.12.0-14 C:\Users\szniloy\.gradle\caches\transforms-4\5f944edabb31d8aace69c1140b8d3c98\transformed\material-1.12.0\res
+com.szniloycoder.airticket.app-savedstate-1.2.1-15 C:\Users\szniloy\.gradle\caches\transforms-4\6118830035b32f75e927e689cce349a3\transformed\savedstate-1.2.1\res
+com.szniloycoder.airticket.app-fragment-1.5.4-16 C:\Users\szniloy\.gradle\caches\transforms-4\6138eda10c11c3203f25152be3b5f5d1\transformed\fragment-1.5.4\res
+com.szniloycoder.airticket.app-lifecycle-viewmodel-2.6.2-17 C:\Users\szniloy\.gradle\caches\transforms-4\684dd795e4b521a37760dc213bebf530\transformed\lifecycle-viewmodel-2.6.2\res
+com.szniloycoder.airticket.app-activity-1.9.1-18 C:\Users\szniloy\.gradle\caches\transforms-4\6e993a5bb8af0d4dd39e19b4d0449742\transformed\activity-1.9.1\res
+com.szniloycoder.airticket.app-lottie-5.2.0-19 C:\Users\szniloy\.gradle\caches\transforms-4\75e649e8175e8dd9f9a57005519c47c4\transformed\lottie-5.2.0\res
+com.szniloycoder.airticket.app-glide-4.16.0-20 C:\Users\szniloy\.gradle\caches\transforms-4\7c4dd3384f5a458d4985712fd702279c\transformed\glide-4.16.0\res
+com.szniloycoder.airticket.app-firebase-common-21.0.0-21 C:\Users\szniloy\.gradle\caches\transforms-4\a8b03a8426bcca3a510d47570f2b7c2d\transformed\firebase-common-21.0.0\res
+com.szniloycoder.airticket.app-transition-1.5.0-22 C:\Users\szniloy\.gradle\caches\transforms-4\b8b57a81b51e213620efaa2b97fb2f8f\transformed\transition-1.5.0\res
+com.szniloycoder.airticket.app-lifecycle-livedata-core-2.6.2-23 C:\Users\szniloy\.gradle\caches\transforms-4\c004e5ebad408a0d08a45d5eac6b1b26\transformed\lifecycle-livedata-core-2.6.2\res
+com.szniloycoder.airticket.app-annotation-experimental-1.4.0-24 C:\Users\szniloy\.gradle\caches\transforms-4\c34a4f5627568fcc23056eb2113d040e\transformed\annotation-experimental-1.4.0\res
+com.szniloycoder.airticket.app-viewpager2-1.0.0-25 C:\Users\szniloy\.gradle\caches\transforms-4\d1a26ee9a48a6c7fbcbe46c19cc57e35\transformed\viewpager2-1.0.0\res
+com.szniloycoder.airticket.app-core-runtime-2.2.0-26 C:\Users\szniloy\.gradle\caches\transforms-4\d1ae3d1ef336bce5dd093e67f2060895\transformed\core-runtime-2.2.0\res
+com.szniloycoder.airticket.app-startup-runtime-1.1.1-27 C:\Users\szniloy\.gradle\caches\transforms-4\d9ae61f9f88604aabff7b660ac284f39\transformed\startup-runtime-1.1.1\res
+com.szniloycoder.airticket.app-profileinstaller-1.3.1-28 C:\Users\szniloy\.gradle\caches\transforms-4\db561b0b5e97295306f15c7a54795172\transformed\profileinstaller-1.3.1\res
+com.szniloycoder.airticket.app-core-ktx-1.13.0-29 C:\Users\szniloy\.gradle\caches\transforms-4\dbb5ffc24ba2a6b47ab8c204ba9f6a6c\transformed\core-ktx-1.13.0\res
+com.szniloycoder.airticket.app-cardview-1.0.0-30 C:\Users\szniloy\.gradle\caches\transforms-4\df87a60a170d02f2a5a726209aaa9426\transformed\cardview-1.0.0\res
+com.szniloycoder.airticket.app-lifecycle-livedata-2.6.2-31 C:\Users\szniloy\.gradle\caches\transforms-4\f65dd6b4846f56ef1b4fb6985dfd64dd\transformed\lifecycle-livedata-2.6.2\res
+com.szniloycoder.airticket.app-emoji2-views-helper-1.3.0-32 C:\Users\szniloy\.gradle\caches\transforms-4\f7588812da25243179c69946278c23ac\transformed\emoji2-views-helper-1.3.0\res
+com.szniloycoder.airticket.app-drawerlayout-1.1.1-33 C:\Users\szniloy\.gradle\caches\transforms-4\fb8bdf8754162661ece427783286b9de\transformed\drawerlayout-1.1.1\res
+com.szniloycoder.airticket.app-pngs-34 W:\App\Main app\Air Ticket Booking\User\app\build\generated\res\pngs\debug
+com.szniloycoder.airticket.app-res-35 W:\App\Main app\Air Ticket Booking\User\app\build\generated\res\processDebugGoogleServices
+com.szniloycoder.airticket.app-resValues-36 W:\App\Main app\Air Ticket Booking\User\app\build\generated\res\resValues\debug
+com.szniloycoder.airticket.app-packageDebugResources-37 W:\App\Main app\Air Ticket Booking\User\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.szniloycoder.airticket.app-packageDebugResources-38 W:\App\Main app\Air Ticket Booking\User\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.szniloycoder.airticket.app-debug-39 W:\App\Main app\Air Ticket Booking\User\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.szniloycoder.airticket.app-debug-40 W:\App\Main app\Air Ticket Booking\User\app\src\debug\res
+com.szniloycoder.airticket.app-main-41 W:\App\Main app\Air Ticket Booking\User\app\src\main\res
